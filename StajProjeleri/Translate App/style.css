@@ -1,0 +1,10 @@
+*{
+  padding: 0.7rem;
+}
+
+body {
+  background-image: url("translate.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+}
