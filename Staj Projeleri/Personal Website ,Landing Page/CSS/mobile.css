@@ -1,0 +1,30 @@
+#navbar {
+  flex-direction: column;
+  padding top: 0.5rem;
+  padding-bottom: 0.5rem;
+  overflow: hidden;
+}
+
+#navbar h1 {
+  margin-bottom: 1.25rem;
+}
+
+#about .items{
+  margin: 0;
+  flex-direction: column;
+  padding: 0;
+}
+
+#about .items .Schools{
+  width: 100%;
+}
+
+#about img {
+  width: 40%;
+  height: auto;
+}
+
+#blog .video .videos iframe{
+  width: 100%;
+  height: auto;
+}
